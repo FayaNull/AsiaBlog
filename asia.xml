@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <asia>
- <head>
-   <hair>
-     <hairclips />
-     <keha>
-     <neck />
-     <shoulders>
-     <shoulder1 />
-     <shoulder2 />
-     </shoulders>
-     
+	<head>
+		<hair>
+			<hairclips />
+		</hair>
+	</head>
+	<body>
+		<neck />
+		<shoulders>
+			<shoulder1 />
+			<shoulder2 />
+		</shoulders>
+	</body>
 </asia>
